@@ -7,7 +7,7 @@ public class ColumnPool : MonoBehaviour
 	public int columnPoolSize = 5;									
 	public float spawnRate = 3f;									
 	public float columnMin = 0f;									
-	public float columnMax = 2.8f;									
+	public float columnMax = 2.7f;									
 
 	private GameObject[] columns;									
 	private int currentColumn = 0;									
